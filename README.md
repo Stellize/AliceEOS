@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliceEOS
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning about Python and machine learning
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Pentest and overclock
+- 🌱 I’m currently learning about Python and Pentest
+- 💞️ I’m looking to collaborate on discord
 - 📫 You can contact me by e-mail : overcloxalize@gmail.com
 
 <!---
