@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliceEOS
+- 👋 Hi, I’m Weiss Takane / @AliceEOS
 - 👀 I’m interested in OSINT and overclock
 - 🌱 I’m currently learning about HTML,CSS,JS and OSINT
 - 💞️ I’m communicate on Discord
