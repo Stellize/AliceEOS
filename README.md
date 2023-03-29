@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stellier (Codename: Takane)
+- 👋 Hi, I’m Stellize (Codename: Takane)
 - 👀 I’m interested in OSINT and overclock
 - 🌱 I’m currently learning about HTML,CSS,JS and OSINT
 - 💞️ I’m communicate on Discord
